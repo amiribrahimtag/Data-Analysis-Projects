@@ -9,6 +9,6 @@ The purpose of this Exploratory Data Analysis is to find insights to answer two 
 
 **This project based on fivethirtyeight article published in 2015**
 
-**Article Link : [https://lnkd.in/d6QR4BDS]**
+**[Article Link](https://fivethirtyeight.com/features/fandango-movies-ratings/)**
 
-**Code and Files : [https://lnkd.in/dvghQEuj]**
+**[Code](https://github.com/amiribrahimtag/Data-Analysis-Projects/blob/main/Python%20Online%20Movie%20Ratings%20Analysis%20Project/Online%20Movie%20Ratings%20Analysis.ipynb)**
