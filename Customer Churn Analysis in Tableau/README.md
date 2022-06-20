@@ -8,4 +8,5 @@ But what if we can present static slides side by side interactive dashboards !! 
 Report details are self explanatory on the story points and am looking forward any kind of advice and questions for sure.**
 
 [Tableau Public Presentation](https://public.tableau.com/app/profile/amiribrahimtag/viz/AnalyzingCustomerChurnReport/ChurnAnalysis) 'Open in Full Screen Mode'
+
 [Dashboards](https://public.tableau.com/app/profile/amiribrahimtag/viz/CurstomerAnalysisDashboards/ChurnAnalysisDashboards) 'Open in Full Screen Mode'
