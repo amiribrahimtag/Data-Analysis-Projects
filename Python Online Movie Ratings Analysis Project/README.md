@@ -11,4 +11,4 @@ The purpose of this Exploratory Data Analysis is to find insights to answer two 
 
 **[Article Link](https://fivethirtyeight.com/features/fandango-movies-ratings/)**
 
-**[Code](https://github.com/amiribrahimtag/Data-Analysis-Projects/blob/main/Python%20Online%20Movie%20Ratings%20Analysis%20Project/Online%20Movie%20Ratings%20Analysis.ipynb)**
+**[Report Code](https://github.com/amiribrahimtag/Data-Analysis-Projects/blob/main/Python%20Online%20Movie%20Ratings%20Analysis%20Project/Online%20Movie%20Ratings%20Analysis.ipynb)**
